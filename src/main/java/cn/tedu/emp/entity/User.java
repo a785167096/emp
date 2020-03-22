@@ -9,11 +9,7 @@ import java.io.Serializable;
 import java.util.Objects;
 
 /**
- * @ClassName User
- * @Description TODO
- * @Author hp
- * @Date 2020/3/22 18:24
- * @Version 1.0
+ * 用户数据的实体类
  */
 @Setter
 @Getter
